@@ -37,8 +37,3 @@ It handles inventory tracking, supplier information, customer orders, stock purc
 4. `Purchases` – Records stock purchases from suppliers  
 5. `Sales` – Records product sales to customers  
 
----
-
-
-```markdown
-![ER Diagram](images/inventory_er_diagram.png)
